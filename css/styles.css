@@ -230,30 +230,13 @@ h5 {
     color: rgb(255, 255, 255);
   }
 }
-
-#frase {
-  --weight: 10;
-  font-family: "Marvin Visions Variable";
-  font-size: 6.5rem;
-  font-weight: 170;
-  background-size: contain;
-  line-height: 0.8;
-  margin: 0;
-  margin-right: 40rem;
-  text-align: left;
-}
+ 
 
 #quote > * {
   color: hsl(347, 7%, 29%);
 }
 
-@media screen and (max-width: 600px) {
-  #frase {
-    margin-right: 0;
-    font-size: 5rem;
-    text-align: left;
-  }
-}
+ 
 
 .pol {
   height: 2px;
